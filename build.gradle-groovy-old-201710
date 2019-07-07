@@ -1,0 +1,37 @@
+group 'kotlin-in-action'
+version '1.0-SNAPSHOT'
+
+// according to https://kotlinlang.org/docs/reference/using-gradle.html, below is the older way.
+// not required when using Kotlin Gradle plugin 1.1.1 and above with the Gradle plugins DSL, and with Gradle Kotlin DSL
+buildscript {
+    ext.kotlin_version = '1.1.2-2'
+
+    repositories {
+        mavenCentral()
+    }
+    dependencies {
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
+    }
+}
+
+// Targeting the JVM
+// according to https://kotlinlang.org/docs/reference/using-gradle.html, below is the older way.
+// Alternatively, you can use the older apply plugin approach,
+// It's not recommended to apply Kotlin plugins with apply in Gradle Kotlin DSL
+apply plugin: 'kotlin'
+
+repositories {
+    mavenCentral()
+}
+
+// Configuring Dependencies
+dependencies {
+    compile "org.jetbrains.kotlin:kotlin-stdlib-jre7:$kotlin_version" // support Java7
+    compile "org.jetbrains.kotlin:kotlin-reflect:$kotlin_version" //uses Kotlin reflection
+    compile "junit:junit:4.12"
+}
+
+// Customize source folder
+sourceSets {
+    main.kotlin.srcDirs += 'src'
+}
