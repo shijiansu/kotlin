@@ -55,6 +55,3 @@ fun main(args: Array<String>) {
     println(eval3(Sum(Num(1), Num(2))))
     println(evalWithLogging(Sum(Sum(Num(1), Num(2)), Num(4))))
 }
-
-
-
