@@ -3,6 +3,7 @@ package ch02_kotlin_basics._07_try_catch_and_final
 import java.io.BufferedReader
 import java.io.StringReader
 
+// Using try as in Java
 fun readNumber(reader: BufferedReader): Int? {
     try {
         val line = reader.readLine()
@@ -14,6 +15,7 @@ fun readNumber(reader: BufferedReader): Int? {
     }
 }
 
+// Using try as an expression
 fun readNumber2(reader: BufferedReader) {
     val number = try {
         Integer.parseInt(reader.readLine())
@@ -23,6 +25,7 @@ fun readNumber2(reader: BufferedReader) {
     println(number)
 }
 
+// Returning a value in catch
 fun readNumber3(reader: BufferedReader) {
     val number = try {
         Integer.parseInt(reader.readLine())
