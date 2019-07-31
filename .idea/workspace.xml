@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8c417409-9e67-4c36-8c27-907767137f9f" name="Default Changelist" comment="k咔咔咔咔咔咔扩扩扩扩扩扩绿绿绿;可能不会l.ljmv好 '就老男孩立即解决了;;;'看护费放放风行业000765566790ookjhhhjkll男男女女lkjbhhjjkkkl&#10;&#10;lkjnjlll">
+      <change afterPath="$PROJECT_DIR$/part-1-introducing-kotlin/src/main/kotlin/ch05_program_with_lambda/_01_lambdas_basics/6_AllAnyCountFindGroupBy.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part-1-introducing-kotlin/src/main/kotlin/ch04_class_object_interface/_03_class_and_interface/4_ToStringEqualsAndHashCode.kt" beforeDir="false" afterPath="$PROJECT_DIR$/part-1-introducing-kotlin/src/main/kotlin/ch04_class_object_interface/_03_class_and_interface/4_ToStringEqualsHashCode.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/part-1-introducing-kotlin/src/main/kotlin/ch05_program_with_lambda/_01_lambdas_basics/5_FilterMap.kt" beforeDir="false" afterPath="$PROJECT_DIR$/part-1-introducing-kotlin/src/main/kotlin/ch05_program_with_lambda/_01_lambdas_basics/5_FilterMapFlatMap.kt" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/classes/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="core-kotlin-based-on-kotlin-in-action" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/part-1-introducing-kotlin/src/main/kotlin/ch05_program_with_lambda/_01_lambdas_basics/5_FilterMapFlatMap.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/part-1-introducing-kotlin/src/main/kotlin/ch05_program_with_lambda/_01_lambdas_basics/6_AllAnyCountFindGroupBy.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kotlin-in-action-master/src/ch05/5.2.4_1_FlatMapFlatten.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="44" selection-start-line="3" selection-start-column="2" selection-end-line="4" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kotlin-in-action-master/src/ch05/5.2.4_2_FlatMapFlatten1.kt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>KotlinSourceSet</find>
+      <find>throw IllegalArgumentException</find>
+      <find>val result = StringBuilder(prefix)</find>
+      <find>strings.JoinKt</find>
+      <find>JvmOverloads</find>
+      <find>people.maxBy</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/part-1-introducing-kotlin/src/main/kotlin/ch03_define_and_call_function</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/part-1-introducing-kotlin/src/main/kotlin/ch02_kotlin_basics/_04_emun_and_when/Colors.kt" />
+        <option value="$PROJECT_DIR$/part-1-introducing-kotlin/src/main/kotlin/ch02_kotlin_basics/_05_smart_cast/Smart.kt" />
+        <option value="$PROJECT_DIR$/kotlin-in-action-master/src/ch02/2.3.5_SmartCasts.kt" />
+        <option value="$PROJECT_DIR$/kotlin-in-action-master/src/ch02/2.3.7_WhenBlockBranch.kt" />
+        <option value="$PROJECT_DIR$/part-1-introducing-kotlin/src/main/kotlin/ch02_kotlin_basics/_05_smart_cast/SmartCast.kt" />
+        <option value="$PROJECT_DIR$/part-1-introducing-kotlin/src/main/kotlin/ch02_kotlin_basics/_06_Iterating/FizzBuzz.kt" />
+        <option value="$PROJECT_DIR$/part-1-introducing-kotlin/src/main/kotlin/ch02_kotlin_basics/_06_Iterating/Iterating.kt" />
+        <option value="$PROJECT_DIR$/part-1-introducing-kotlin/src/main/kotlin/ch02_kotlin_basics/_06_Iterating_and_list/CheckIfIn.kt" />
+        <option value="$PROJECT_DIR$/part-1-introducing-kotlin/src/main/kotlin/ch02_kotlin_basics/_07_try_catch_and_final/TryCatchAndFinally.kt" />
+        <option value="$PROJECT_DIR$/part-1-introducing-kotlin/src/main/kotlin/ch03_define_and_call_function/_01_collection/Collection.kt" />
+        <option value="$PROJECT_DIR$/kotlin-in-action-master/src/ch03/3.3.3_1_JoinToStringFinal.kt" />
+        <option value="$PROJECT_DIR$/part-1-introducing-kotlin/src/main/kotlin/ch03_define_and_call_function/_01_collection/JoinToString.kt" />
+        <option value="$PROJECT_DIR$/part-1-introducing-kotlin/src/main/kotlin/ch03_define_and_call_function/_02_make_function_easier_to_call/JoinToString.kt" />
+        <option value="$PROJECT_DIR$/part-1-introducing-kotlin/src/main/kotlin/ch03_define_and_call_function/_03_no_overriding_for_extension_functions/View.kt" />
+        <option value="$PROJECT_DIR$/part-1-introducing-kotlin/src/main/kotlin/ch03_define_and_call_function/_04_extension_properties/ExtensionProperties.kt" />
+        <option value="$PROJECT_DIR$/part-1-introducing-kotlin/src/main/kotlin/ch03_define_and_call_function/_05_collections/Collections.kt" />
+        <option value="$PROJECT_DIR$/part-1-introducing-kotlin/src/main/kotlin/ch03_define_and_call_function/_06_strings_and_regular_expressions/Strings.kt" />
+        <option value="$PROJECT_DIR$/kotlin-in-action-master/src/ch03/3.6_1_ValidateUser.kt" />
+        <option value="$PROJECT_DIR$/part-1-introducing-kotlin/src/main/kotlin/ch03_define_and_call_function/_07_local_functions_and_extensions/3.6_1_ValidateUser.kt" />
+        <option value="$PROJECT_DIR$/part-1-introducing-kotlin/src/main/kotlin/ch03_define_and_call_function/_07_local_functions_and_extensions/User.kt" />
+        <option value="$PROJECT_DIR$/part-1-introducing-kotlin/src/main/kotlin/ch03_define_and_call_function/_05_collection/Collections.kt" />
+        <option value="$PROJECT_DIR$/part-1-introducing-kotlin/src/main/kotlin/ch03_define_and_call_function/_01_simple_collection/Collection.kt" />
+        <option value="$PROJECT_DIR$/part-1-introducing-kotlin/src/main/kotlin/ch04_class_object_interface/_02_inner_and_nested_classes/Button.kt" />
+        <option value="$PROJECT_DIR$/part-1-introducing-kotlin/src/main/kotlin/ch04_class_object_interface/_02_inner_and_nested_classes/4.1.4_2_InnerAndNestedClasses1.kt" />
+        <option value="$PROJECT_DIR$/part-1-introducing-kotlin/src/main/kotlin/ch04_class_object_interface/_02_inner_and_nested_classes/SealedClasses.kt" />
+        <option value="$PROJECT_DIR$/part-1-introducing-kotlin/src/main/kotlin/ch04_class_object_interface/_03_declaring_a_class/InitializingClasses.kt" />
+        <option value="$PROJECT_DIR$/part-1-introducing-kotlin/src/main/kotlin/ch04_class_object_interface/_03_class_and_interface/InitializingClasses.kt" />
+        <option value="$PROJECT_DIR$/part-1-introducing-kotlin/src/main/kotlin/ch04_class_object_interface/_03_class_and_interface/PropertiesInInterfaces.kt" />
+        <option value="$PROJECT_DIR$/part-1-introducing-kotlin/src/main/kotlin/ch04_class_object_interface/_03_class_and_interface/GetterOrSetter.kt" />
+        <option value="$PROJECT_DIR$/part-1-introducing-kotlin/src/main/kotlin/ch04_class_object_interface/_03_class_and_interface/3_GetterOrSetter.kt" />
+        <option value="$PROJECT_DIR$/part-1-introducing-kotlin/src/main/kotlin/ch04_class_object_interface/_04_compiler_generated_methods/4.3.1.1_StringRepresentationToString.kt" />
+        <option value="$PROJECT_DIR$/part-1-introducing-kotlin/src/main/kotlin/ch04_class_object_interface/_04_compiler_generated_methods/2_DelegationOfByKeyword.kt" />
+        <option value="$PROJECT_DIR$/part-1-introducing-kotlin/src/main/kotlin/ch04_class_object_interface/_03_class_and_interface/5_DelegationOfByKeyword.kt" />
+        <option value="$PROJECT_DIR$/part-1-introducing-kotlin/src/main/kotlin/ch04_class_object_interface/_03_class_and_interface/4.4.1_1_ObjectDeclarations.kt" />
+        <option value="$PROJECT_DIR$/part-1-introducing-kotlin/src/main/kotlin/ch04_class_object_interface/_03_class_and_interface/6_ObjectDeclarations.kt" />
+        <option value="$PROJECT_DIR$/part-1-introducing-kotlin/src/main/kotlin/ch04_class_object_interface/_03_class_and_interface/7_CompanionObjects.kt" />
+        <option value="$PROJECT_DIR$/part-1-introducing-kotlin/src/main/kotlin/ch04_class_object_interface/_03_class_and_interface/7_CompanionKeyword.kt" />
+        <option value="$PROJECT_DIR$/part-1-introducing-kotlin/src/main/kotlin/ch04_class_object_interface/_01_class_hierarchies/ClassHierarchies.kt" />
+        <option value="$PROJECT_DIR$/part-1-introducing-kotlin/src/main/kotlin/ch05_program_with_lambda/_01_lambdas_basics/1_LambdasAndCollections.kt" />
+        <option value="$PROJECT_DIR$/kotlin-in-action-master/src/ch05/5.1.3_3_SyntaxForLambdaExpressions2.kt" />
+        <option value="$PROJECT_DIR$/part-1-introducing-kotlin/src/main/kotlin/ch05_program_with_lambda/_01_lambdas_basics/2_SyntaxForLambdaExpressions.kt" />
+        <option value="$PROJECT_DIR$/part-1-introducing-kotlin/src/main/kotlin/ch05_program_with_lambda/_01_lambdas_basics/3_AccessingVariablesInScope.kt" />
+        <option value="$PROJECT_DIR$/kotlin-in-action-master/src/ch05/5.1.5_1_MemberReferences.kt" />
+        <option value="$PROJECT_DIR$/part-1-introducing-kotlin/src/main/kotlin/ch05_program_with_lambda/_01_lambdas_basics/4_MemberReferences.kt" />
+        <option value="$PROJECT_DIR$/kotlin-in-action-master/src/ch05/5.2.1_2_FilterMap1.kt" />
+        <option value="$PROJECT_DIR$/kotlin-in-action-master/src/ch05/5.2.1_3_FilterMap2.kt" />
+        <option value="$PROJECT_DIR$/kotlin-in-action-master/src/ch05/5.2.1_4_FilterMap3.kt" />
+        <option value="$PROJECT_DIR$/kotlin-in-action-master/src/ch05/5.2.1_5_FilterMap4.kt" />
+        <option value="$PROJECT_DIR$/part-1-introducing-kotlin/src/main/kotlin/ch05_program_with_lambda/_01_lambdas_basics/5_FilterMap.kt" />
+        <option value="$PROJECT_DIR$/part-1-introducing-kotlin/src/main/kotlin/ch05_program_with_lambda/_01_lambdas_basics/6_AllAnyCountFind.kt" />
+        <option value="$PROJECT_DIR$/part-1-introducing-kotlin/src/main/kotlin/ch05_program_with_lambda/_01_lambdas_basics/6_AllAnyCountFindGroupBy.kt" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="369" />
+    <option name="y" value="193" />
+    <option name="width" value="1394" />
+    <option name="height" value="878" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="core-kotlin-based-on-kotlin-in-action" type="b2602c69:ProjectViewProjectNode" />
+              <item name="core-kotlin-based-on-kotlin-in-action" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="core-kotlin-based-on-kotlin-in-action" type="b2602c69:ProjectViewProjectNode" />
+              <item name="core-kotlin-based-on-kotlin-in-action" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kotlin-in-action-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="core-kotlin-based-on-kotlin-in-action" type="b2602c69:ProjectViewProjectNode" />
+              <item name="core-kotlin-based-on-kotlin-in-action" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kotlin-in-action-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="core-kotlin-based-on-kotlin-in-action" type="b2602c69:ProjectViewProjectNode" />
+              <item name="core-kotlin-based-on-kotlin-in-action" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kotlin-in-action-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ch05" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="core-kotlin-based-on-kotlin-in-action" type="b2602c69:ProjectViewProjectNode" />
+              <item name="core-kotlin-based-on-kotlin-in-action" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="part-1-introducing-kotlin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="core-kotlin-based-on-kotlin-in-action" type="b2602c69:ProjectViewProjectNode" />
+              <item name="core-kotlin-based-on-kotlin-in-action" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="part-1-introducing-kotlin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="core-kotlin-based-on-kotlin-in-action" type="b2602c69:ProjectViewProjectNode" />
+              <item name="core-kotlin-based-on-kotlin-in-action" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="part-1-introducing-kotlin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="core-kotlin-based-on-kotlin-in-action" type="b2602c69:ProjectViewProjectNode" />
+              <item name="core-kotlin-based-on-kotlin-in-action" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="part-1-introducing-kotlin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="core-kotlin-based-on-kotlin-in-action" type="b2602c69:ProjectViewProjectNode" />
+              <item name="core-kotlin-based-on-kotlin-in-action" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="part-1-introducing-kotlin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="ch04_class_object_interface" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="core-kotlin-based-on-kotlin-in-action" type="b2602c69:ProjectViewProjectNode" />
+              <item name="core-kotlin-based-on-kotlin-in-action" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="part-1-introducing-kotlin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="ch04_class_object_interface" type="462c0819:PsiDirectoryNode" />
+              <item name="_03_class_and_interface" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="core-kotlin-based-on-kotlin-in-action" type="b2602c69:ProjectViewProjectNode" />
+              <item name="core-kotlin-based-on-kotlin-in-action" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="part-1-introducing-kotlin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="_01_lambdas_basics" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/part-1-introducing-kotlin/src/main/kotlin/ch05_program_with_lambda/_01_lambdas_basics" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/part-1-introducing-kotlin/src/main/kotlin/ch05_program_with_lambda/_01_lambdas_basics" />
+      <recent name="$PROJECT_DIR$/part-1-introducing-kotlin/src/main/kotlin/ch04_class_object_interface/_03_class_and_interface" />
+      <recent name="$PROJECT_DIR$/part-1-introducing-kotlin/src/main/kotlin/ch04_class_object_interface/_04_compiler_generated_methods" />
+      <recent name="$PROJECT_DIR$/part-1-introducing-kotlin/src/main/kotlin/ch04_class_object_interface/_03_declaring_a_class" />
+      <recent name="$PROJECT_DIR$/part-1-introducing-kotlin/src/main/kotlin/ch04_class_object_interface/_02_inner_and_nested_classes" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/part-1-introducing-kotlin/src/main/kotlin/ch04_class_object_interface/_03_class_and_interface" />
+      <recent name="$PROJECT_DIR$/part-1-introducing-kotlin/src/main/kotlin/ch04_class_object_interface/_02_inner_and_nested_classes" />
+      <recent name="$PROJECT_DIR$/part-1-introducing-kotlin/src/main/kotlin/ch03_define_and_call_function/_07_local_functions_and_extensions" />
+      <recent name="$PROJECT_DIR$/part-1-introducing-kotlin/src/main/kotlin/ch03_define_and_call_function/_02_make_function_easier_to_call" />
+      <recent name="$PROJECT_DIR$/part-1-introducing-kotlin/src/main/kotlin" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Kotlin.ch05_program_with_lambda._01_lambdas_basics._6_AllAnyCountFindGroupByKt">
+    <configuration name="ch04_class_object_interface._03_class_and_interface._4_ToStringEqualsHashCodeKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="core-kotlin-based-on-kotlin-in-action.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ch04_class_object_interface._03_class_and_interface._4_ToStringEqualsHashCodeKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ch05_program_with_lambda._01_lambdas_basics._1_LambdasAndCollectionsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="core-kotlin-based-on-kotlin-in-action.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ch05_program_with_lambda._01_lambdas_basics._1_LambdasAndCollectionsKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ch05_program_with_lambda._01_lambdas_basics._2_SyntaxForLambdaExpressionsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="core-kotlin-based-on-kotlin-in-action.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ch05_program_with_lambda._01_lambdas_basics._2_SyntaxForLambdaExpressionsKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ch05_program_with_lambda._01_lambdas_basics._5_FilterMapFlatMapKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="core-kotlin-based-on-kotlin-in-action.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ch05_program_with_lambda._01_lambdas_basics._5_FilterMapFlatMapKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ch05_program_with_lambda._01_lambdas_basics._6_AllAnyCountFindGroupByKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="core-kotlin-based-on-kotlin-in-action.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ch05_program_with_lambda._01_lambdas_basics._6_AllAnyCountFindGroupByKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.ch05_program_with_lambda._01_lambdas_basics._6_AllAnyCountFindGroupByKt" />
+        <item itemvalue="Kotlin.ch05_program_with_lambda._01_lambdas_basics._5_FilterMapFlatMapKt" />
+        <item itemvalue="Kotlin.ch05_program_with_lambda._01_lambdas_basics._2_SyntaxForLambdaExpressionsKt" />
+        <item itemvalue="Kotlin.ch05_program_with_lambda._01_lambdas_basics._1_LambdasAndCollectionsKt" />
+        <item itemvalue="Kotlin.ch04_class_object_interface._03_class_and_interface._4_ToStringEqualsHashCodeKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c417409-9e67-4c36-8c27-907767137f9f" name="Default Changelist" comment="" />
+      <created>1562434727999</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562434727999</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Update try catch">
+      <created>1563293950239</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1563293950239</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Update JoinToString">
+      <created>1563468654000</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1563468654000</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="369" y="193" width="1394" height="878" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49934298" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Project Explorer" order="4" weight="0.32972974" />
+      <window_info id="Favorites" order="5" sideWeight="0.500657" side_tool="true" weight="0.3224852" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Job Explorer" order="7" weight="0.12200772" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.35742444" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.2654402" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Run with VisualVM" order="10" />
+      <window_info anchor="bottom" id="Debug with VisualVM" order="11" />
+      <window_info anchor="bottom" id="Console" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" weight="0.3298292" />
+      <window_info anchor="bottom" id="Tail" order="14" />
+      <window_info anchor="bottom" id="Messages" order="15" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Gradle" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="PlantUML" order="8" weight="0.32988167" />
+    </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update try catch" />
+    <MESSAGE value="Update JoinToString" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update JoinToString" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/kotlin-in-action-master/src/ch04/4.2.3_2_ImplementingPropertiesDeclaredInInterfaces1.kt" />
+    <entry file="file://$PROJECT_DIR$/kotlin-in-action-master/src/ch04/4.2.4_AccessingABackingFieldFromAGetterOrSetter.kt" />
+    <entry file="file://$PROJECT_DIR$/kotlin-in-action-master/src/ch04/4.2.5_ChangingAccessorVisibility.kt" />
+    <entry file="file://$PROJECT_DIR$/kotlin-in-action-master/src/ch04/4.3.1.1_StringRepresentationToString.kt" />
+    <entry file="file://$PROJECT_DIR$/part-1-introducing-kotlin/src/main/kotlin/ch04_class_object_interface/_04_compiler_generated_methods/4.3.1.2_1_ObjectEqualityEquals.kt" />
+    <entry file="file://$PROJECT_DIR$/part-1-introducing-kotlin/src/main/kotlin/ch04_class_object_interface/_04_compiler_generated_methods/4.3.1.2_2_ObjectEqualityEquals1.kt" />
+    <entry file="file://$PROJECT_DIR$/part-1-introducing-kotlin/src/main/kotlin/ch04_class_object_interface/_04_compiler_generated_methods/4.3.2.1_DataClassCopy.kt" />
+    <entry file="file://$PROJECT_DIR$/kotlin-in-action-master/src/ch04/4.4.1_1_ObjectDeclarations.kt" />
+    <entry file="file://$PROJECT_DIR$/part-1-introducing-kotlin/src/main/kotlin/ch04_class_object_interface/_03_class_and_interface/4.4.1_2_ObjectDeclarations1.kt" />
+    <entry file="file://$PROJECT_DIR$/part-1-introducing-kotlin/src/main/kotlin/ch04_class_object_interface/_03_class_and_interface/4.4.2_2_CompanionObjects1.kt" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.41/8f361846168f853fb213b0ab02d193f02644548/kotlin-stdlib-common-1.3.41-sources.jar!/kotlin/util/Standard.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="36" column="113" lean-forward="true" selection-start-line="36" selection-start-column="113" selection-end-line="36" selection-end-column="113" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/part-1-introducing-kotlin/src/main/kotlin/ch04_class_object_interface/_03_class_and_interface/7_CompanionKeyword.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/part-1-introducing-kotlin/src/main/kotlin/ch04_class_object_interface/_03_class_and_interface/6_Comparator.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="14" column="30" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/part-1-introducing-kotlin/src/main/kotlin/ch04_class_object_interface/_03_class_and_interface/4_ToStringEqualsHashCode.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="67" selection-start-line="22" selection-start-column="50" selection-end-line="22" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/part-1-introducing-kotlin/src/main/kotlin/ch04_class_object_interface/_03_class_and_interface/3_GetterOrSetter.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="75" selection-start-line="14" selection-start-column="75" selection-end-line="14" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/part-1-introducing-kotlin/src/main/kotlin/ch04_class_object_interface/_03_class_and_interface/2_PropertiesInInterfaces.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="42" selection-start-line="26" selection-start-column="42" selection-end-line="26" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/part-1-introducing-kotlin/src/main/kotlin/ch04_class_object_interface/_03_class_and_interface/5_DelegationOfByKeyword.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="23" column="100" selection-start-line="23" selection-start-column="100" selection-end-line="23" selection-end-column="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/part-1-introducing-kotlin/src/main/kotlin/ch04_class_object_interface/_03_class_and_interface/1_InitializingClasses.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/part-1-introducing-kotlin/src/main/kotlin/ch04_class_object_interface/_02_inner_and_nested_classes/4.1.5_2_SealedClasses1.kt" />
+    <entry file="file://$PROJECT_DIR$/part-1-introducing-kotlin/src/main/kotlin/ch04_class_object_interface/_02_inner_and_nested_classes/1_InnerAndNestedClasses.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/part-1-introducing-kotlin/src/main/kotlin/ch04_class_object_interface/_02_inner_and_nested_classes/2_NestedByDefault.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/part-1-introducing-kotlin/src/main/kotlin/ch04_class_object_interface/_01_class_hierarchies/ClassHierarchies.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/part-1-introducing-kotlin/src/main/kotlin/ch04_class_object_interface/_02_inner_and_nested_classes/3_SealedClasses.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="56" selection-start-line="16" selection-start-column="56" selection-end-line="16" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kotlin-in-action-master/src/ch05/5.1.2_LambdasAndCollections.kt" />
+    <entry file="file://$PROJECT_DIR$/kotlin-in-action-master/src/ch05/5.1.3_1_SyntaxForLambdaExpressions.kt" />
+    <entry file="file://$PROJECT_DIR$/kotlin-in-action-master/src/ch05/5.1.3_2_SyntaxForLambdaExpressions1.kt" />
+    <entry file="file://$PROJECT_DIR$/kotlin-in-action-master/src/ch05/5.1.3_3_SyntaxForLambdaExpressions2.kt" />
+    <entry file="file://$PROJECT_DIR$/kotlin-in-action-master/src/ch05/5.1.3_4_SyntaxForLambdaExpressions3.kt" />
+    <entry file="file://$PROJECT_DIR$/kotlin-in-action-master/src/ch05/5.1.3.4_SyntaxForLambdaExpressions4.kt" />
+    <entry file="file://$PROJECT_DIR$/part-1-introducing-kotlin/src/main/kotlin/ch05_program_with_lambda/_01_lambdas_basics/1_LambdasAndCollections.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kotlin-in-action-master/src/ch05/5.1.4_1_AccessingVariablesInScope.kt" />
+    <entry file="file://$PROJECT_DIR$/kotlin-in-action-master/src/ch05/5.1.4_2_AccessingVariablesInScope1.kt" />
+    <entry file="file://$PROJECT_DIR$/part-1-introducing-kotlin/src/main/kotlin/ch05_program_with_lambda/_01_lambdas_basics/2_SyntaxForLambdaExpressions.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="14" lean-forward="true" selection-start-line="15" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/part-1-introducing-kotlin/src/main/kotlin/ch05_program_with_lambda/_01_lambdas_basics/3_AccessingVariablesInScope.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-98">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kotlin-in-action-master/src/ch05/5.1.5_1_MemberReferences.kt" />
+    <entry file="file://$PROJECT_DIR$/kotlin-in-action-master/src/ch05/5.1.5_2_MemberReferences1.kt" />
+    <entry file="file://$PROJECT_DIR$/part-1-introducing-kotlin/src/main/kotlin/ch05_program_with_lambda/_01_lambdas_basics/4_MemberReferences.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kotlin-in-action-master/src/ch05/5.2.1_1_FilterMap.kt" />
+    <entry file="file://$PROJECT_DIR$/kotlin-in-action-master/src/ch05/5.2.1_2_FilterMap1.kt" />
+    <entry file="file://$PROJECT_DIR$/kotlin-in-action-master/src/ch05/5.2.1_3_FilterMap2.kt" />
+    <entry file="file://$PROJECT_DIR$/kotlin-in-action-master/src/ch05/5.2.1_4_FilterMap3.kt" />
+    <entry file="file://$PROJECT_DIR$/kotlin-in-action-master/src/ch05/5.2.1_5_FilterMap4.kt" />
+    <entry file="file://$PROJECT_DIR$/kotlin-in-action-master/src/ch05/5.2.2_1_AllAnyCountFind.kt" />
+    <entry file="file://$PROJECT_DIR$/kotlin-in-action-master/src/ch05/5.2.2_2_AllAnyCountFind1.kt" />
+    <entry file="file://$PROJECT_DIR$/kotlin-in-action-master/src/ch05/5.2.2_3_AllAnyCountFind2.kt" />
+    <entry file="file://$PROJECT_DIR$/kotlin-in-action-master/src/ch05/5.2.3_1_GroupBy.kt" />
+    <entry file="file://$PROJECT_DIR$/kotlin-in-action-master/src/ch05/5.2.3_2_GroupBy1.kt" />
+    <entry file="file://$PROJECT_DIR$/part-1-introducing-kotlin/src/main/kotlin/ch05_program_with_lambda/_01_lambdas_basics/5_FilterMapFlatMap.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kotlin-in-action-master/src/ch05/5.2.4_1_FlatMapFlatten.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="44" selection-start-line="3" selection-start-column="2" selection-end-line="4" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kotlin-in-action-master/src/ch05/5.2.4_2_FlatMapFlatten1.kt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/part-1-introducing-kotlin/src/main/kotlin/ch05_program_with_lambda/_01_lambdas_basics/6_AllAnyCountFindGroupBy.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>sdkman-java</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
